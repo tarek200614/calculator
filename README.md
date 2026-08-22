@@ -146,17 +146,18 @@ python-calculator/
 ```
 ## 🚀 Installation
 1. Clone the repository
-2. Navigate to the project
 
 ```text
 git clone https://github.com/tarek200614/python-calculator.git
 ```
-3. Verify Python
+
+2. Navigate to the project
 
 ```text
 cd python-calculator
 ```
 
+3. Verify Python
 Make sure Python 3.11 or newer is installed:
 
 ```text
@@ -164,7 +165,6 @@ python --version
 ```
 
 4. Install dependencies
-
 No third-party packages are required.
 
 ```text
