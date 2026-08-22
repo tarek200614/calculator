@@ -1,7 +1,0 @@
-# Python Calculator - dependencies
-#
-# This application uses ONLY the Python standard library (tkinter, ast,
-# dataclasses, pathlib, unittest). No third-party packages are required.
-#
-# If you plan to build a standalone Windows .exe, see BUILD_WINDOWS.md for
-# the optional, build-time-only dependency (PyInstaller).
