@@ -411,9 +411,10 @@ Abderrahmane Tarek MEGHARI
 AI & Data Science Student
 ECE Paris
 
-GitHub: https://github.com/tarek200614
-LinkedIn: https://www.linkedin.com/in/abderrahmane-tarek-meghari
-Email: meghariabderrhmanetarek@gmail.com
+- GitHub: https://github.com/tarek200614
+- LinkedIn: https://www.linkedin.com/in/abderrahmane-tarek-meghari
+- Email: meghariabderrhmanetarek@gmail.com
+
 ## 📄 License
 
 This project is released under the MIT License.
