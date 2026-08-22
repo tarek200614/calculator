@@ -263,11 +263,11 @@ The test suite covers:
 
 ## 📸 Screenshots
 
-**Calculator Interface**
+- **Calculator Interface**
 
 <img width="1918" height="1008" alt="image" src="https://github.com/user-attachments/assets/4fac124f-9ed1-4fff-b792-11fe63c1967a" />
 
-**The Calculation History Panel**
+- **The Calculation History Panel**
 
 <img width="1917" height="302" alt="image" src="https://github.com/user-attachments/assets/530d97a9-ca5e-42c6-bb30-258215ad3e01" />
 
