@@ -355,37 +355,37 @@ This is expected behavior. Division and modulo by zero are intentionally detecte
 
 This project demonstrates practical experience with:
 
-_🐍 Python application development
-_🖥️ Desktop GUI development
-_🧩 Modular software architecture
-_🧮 Expression parsing and evaluation
-_🔐 Secure input handling
-_🧪 Unit testing
-_⌨️ Keyboard event handling
-_📜 State and history management
-_⚠️ Exception handling
-_📦 Python project organization
-_📝 Technical documentation
-_🪟 Windows application packaging
-_🔮 Future Improvements
+- 🐍 Python application development
+- 🖥️ Desktop GUI development
+- 🧩 Modular software architecture
+- 🧮 Expression parsing and evaluation
+- 🔐 Secure input handling
+- 🧪 Unit testing
+- ⌨️ Keyboard event handling
+- 📜 State and history management
+- ⚠️ Exception handling
+- 📦 Python project organization
+- 📝 Technical documentation
+- 🪟 Windows application packaging
+- 🔮 Future Improvements
 
 Potential future versions could introduce:
 
-_🧮 Scientific calculator mode
-_📐 Trigonometric functions
-_√ Square root and power operations
-_🌓 Light/Dark theme switching
-_💾 Persistent calculation history
-_📤 Export history to a file
-_📋 Copy/paste result support
-_🔢 Customizable number formatting
-_🎨 User-selectable themes
-_🖼️ Custom application icon
-_🪟 Standalone Windows .exe
-_🌍 Internationalization and multiple languages
-_♿ Improved accessibility support
-_⌨️ Fully customizable keyboard shortcuts
-_🤝 Contributing
+- 🧮 Scientific calculator mode
+- 📐 Trigonometric functions
+- √ Square root and power operations
+- 🌓 Light/Dark theme switching
+- 💾 Persistent calculation history
+- 📤 Export history to a file
+- 📋 Copy/paste result support
+- 🔢 Customizable number formatting
+- 🎨 User-selectable themes
+- 🖼️ Custom application icon
+- 🪟 Standalone Windows .exe
+- 🌍 Internationalization and multiple languages
+- ♿ Improved accessibility support
+- ⌨️ Fully customizable keyboard shortcuts
+- 🤝 Contributing
 
 Contributions, suggestions, and improvements are welcome.
 
