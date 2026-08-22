@@ -1,11 +1,5 @@
 # 🧮 Python Calculator
 
-A modern, secure, and responsive desktop calculator built with **Python 3.11+** and **Tkinter**, designed with a clean architecture and a dependency-free calculation engine.
-
-The application provides standard arithmetic operations, parentheses, decimals, negative numbers, keyboard support, and calculation history through a polished desktop interface.
-
-Unlike simple calculator implementations, this project uses a **custom `eval()`-free expression evaluator**, ensuring that user input is parsed and validated rather than executed as arbitrary Python code.
-
 <p align="center">
   <strong>A modern, secure, and lightweight desktop calculator built with Python.</strong>
 </p>
