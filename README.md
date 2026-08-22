@@ -238,18 +238,12 @@ Backspace	Delete last character
 ## 📸 Screenshots
 Calculator Interface
 
-Add a screenshot of the running application here.
+<img width="1918" height="1008" alt="image" src="https://github.com/user-attachments/assets/4fac124f-9ed1-4fff-b792-11fe63c1967a" />
 
-assets/screenshot.png
+The Calculation History Panel
 
-Example:
+<img width="1917" height="302" alt="image" src="https://github.com/user-attachments/assets/530d97a9-ca5e-42c6-bb30-258215ad3e01" />
 
-![Python Calculator](assets/screenshot.png)
-Calculation History
-
-Add a screenshot showing the calculation history panel here.
-
-assets/history.png
 ## 🛡️ Security
 
 Security is an important part of the calculator's design.
