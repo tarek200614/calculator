@@ -38,7 +38,7 @@ dependency-free, `eval()`-free expression evaluator.
 
 ## 📸 Screenshots
 
-_(Add screenshots of the running application here, e.g. `assets/screenshot.png`.)_
+<img width="1918" height="1008" alt="image" src="https://github.com/user-attachments/assets/0b2b9bef-d01a-413c-9cf9-7a1194e50b08" />
 
 ---
 
