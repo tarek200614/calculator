@@ -306,16 +306,28 @@ Unsupported operation	Invalid expression message
 The application is designed to handle invalid input without crashing.
 
 ## 📋 Requirements
-Python 3.11 or newer
-Tkinter
-Windows 10/11, Linux, or macOS
-No third-party runtime dependencies
 
-For Windows, Tkinter is normally included with the official Python installer.
+Before running the application, make sure your system meets the following requirements:
 
-For Debian/Ubuntu-based Linux distributions:
+| Requirement | Version / Details |
+|---|---|
+| 🐍 **Python** | **3.11 or newer** |
+| 🖥️ **Tkinter** | Required |
+| 📦 **Third-party packages** | None |
+| 🪟 **Windows** | Windows 10 / 11 |
+| 🐧 **Linux** | Supported |
+| 🍎 **macOS** | Supported |
 
-sudo apt install python3-tk
+### 🐍 Python
+
+Python **3.11+** is required.
+
+Check your installed version:
+
+```bash
+python --version
+```
+
 ## 🪟 Building a Windows Executable
 
 The project includes BUILD_WINDOWS.md with instructions for optionally packaging the calculator as a standalone Windows executable.
