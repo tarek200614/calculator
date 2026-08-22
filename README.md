@@ -6,6 +6,24 @@ The application provides standard arithmetic operations, parentheses, decimals, 
 
 Unlike simple calculator implementations, this project uses a **custom `eval()`-free expression evaluator**, ensuring that user input is parsed and validated rather than executed as arbitrary Python code.
 
+<p align="center">
+  <strong>A modern, secure, and lightweight desktop calculator built with Python.</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.11+">
+  <img src="https://img.shields.io/badge/GUI-Tkinter-FF6F00?style=for-the-badge" alt="Tkinter">
+  <img src="https://img.shields.io/badge/Dependencies-None-2EA44F?style=for-the-badge" alt="No Dependencies">
+  <img src="https://img.shields.io/badge/Security-eval%28%29%20Free-DC2626?style=for-the-badge" alt="eval Free">
+  <img src="https://img.shields.io/badge/License-MIT-6366F1?style=for-the-badge" alt="MIT License">
+</p>
+
+<p align="center">
+  A clean desktop calculator featuring safe expression evaluation, correct
+  operator precedence, keyboard support, calculation history, and a modern
+  responsive interface — with <strong>zero third-party runtime dependencies</strong>.
+</p>
+
 ---
 
 ## 📌 Overview
