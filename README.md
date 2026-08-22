@@ -449,3 +449,5 @@ Software engineering principles
 Special attention was given to keeping the project simple, dependency-free, secure, and maintainable while providing a polished desktop user experience.
 
 If you find the project useful, consider giving the repository a ⭐ on GitHub.
+
+<p align="center"> <strong>🧮 Simple to use. 🔐 Secure by design. 🐍 Built with Python.</strong> </p> ```
