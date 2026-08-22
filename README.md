@@ -345,9 +345,7 @@ Before running the application, make sure your system meets the following requir
 | 🐍 **Python** | **3.11 or newer** |
 | 🖥️ **Tkinter** | Required |
 | 📦 **Third-party packages** | None |
-| 🪟 **Windows** | Windows 10 / 11 |
-| 🐧 **Linux** | Supported |
-| 🍎 **macOS** | Supported |
+| 💻 **Operating System** | Windows, Linux, or macOS |
 
 ### 🐍 Python
 
